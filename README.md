@@ -62,7 +62,7 @@ About me
 <div align=center>
     <h3 align="center" > <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/animation.gif" width="30" height="30" style="margin-right: 10px;">Connect me<img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/animation.gif" width="30" height="30" style="margin-left: 10px;"></h3>
     <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/malikshariq/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://pk.linkedin.com/in/muhammad-talha-iqbal-ab989b1a3">
         <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_shariqmalik">
         <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/twitter-squared--v2.png" ></a>
@@ -72,14 +72,14 @@ About me
     <div align=center>
         <h1>Contribution Activities</h1>
         <div align="center">
-            <a href="https://github.com/shariqmalik#gh-dark-mode-only">
-            <img height="150em" src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=shariqmalik&theme=midnight-purple#gh-dark-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
+            <a href="https://github.com/talhahacker123#gh-dark-mode-only">
+            <img height="150em" src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=talhahacker123&theme=midnight-purple#gh-dark-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
             </a>
-            <a href="https://github.com/shariqmalik#gh-light-mode-only">
+            <a href="https://github.com/talhahacker123#gh-light-mode-only">
             <img height="150em" src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=talhahacker123=buefy#gh-light-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
             </a>
-            <a href="https://github.com/shariqmalik#gh-dark-mode-only">
-            <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=shariqmalik&theme=midnight-purple#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
+            <a href="https://github.com/talhahacker123#gh-dark-mode-only">
+            <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=talhahacker123&theme=midnight-purple#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
             </a>
             <a href="https://github.com/talhahacker123#gh-light-mode-only">
             <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=talhahacker123&theme=buefy#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
