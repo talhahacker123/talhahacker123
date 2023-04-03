@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
    <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/me.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
-<h1 align="center">Hi, I'm <a href="https://tinyurl.com/shariqmalik" target="_blank" rel="noopener noreferrer">Shariq!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm <a href="" target="_blank" rel="noopener noreferrer">TALHA IQBAL!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%238A2BE2&size=48&center=true&vCenter=true&width=600&height=60&lines=I%27m+a+Pentester;Problem+Solver;Open-Source+Enthusiast;I+love+to+Automate+stuff" alt="Headline" />
 </div>
@@ -38,18 +38,20 @@ About me
 {
   "Intro":[
     "I am a Pentester",
-    "Elite Hacker at HackTheBox",
+     "Creative and Logical Thinker";
+    "Script Kiddie at HackTheBox",
     "Automation Lover",
   ],
   "currently_learning":[
-    "Cloud Security",
-    "Reversing",
-    "Advance Red Teaming"
+    "API Pentesting",
+    "Red Teaming"
   ],
   "hobbies":[
    {
-    "Gaming":
-    ["Valorant", "CS:GO","COD", "PUBG"]
+    "Information Security research",
+    "Marshal Arts",
+    "Swimming"
+   
    }
   ]
  }
@@ -79,8 +81,8 @@ About me
             <a href="https://github.com/shariqmalik#gh-dark-mode-only">
             <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=shariqmalik&theme=midnight-purple#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
             </a>
-            <a href="https://github.com/shariqmalik#gh-light-mode-only">
-            <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=shariqmalik&theme=buefy#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
+            <a href="https://github.com/talhahacker123#gh-light-mode-only">
+            <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=talhahacker123&theme=buefy#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
             </a>
         </div>
     </div>
