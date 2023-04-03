@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">Hi, I'm <a href="" target="_blank" rel="noopener noreferrer">TALHA IQBAL!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%238A2BE2&size=48&center=true&vCenter=true&width=600&height=60&lines=I%27m+a+Pentester;Problem+Solver;Open-Source+Enthusiast;I+love+to+Automate+stuff" alt="Headline" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=22F73C&background=00000010&center=true&width=435&lines=I+am+Security+Researcher;InfoSec+Enthusiast;Logical++and+Creative+thinker;Problem+Solver;I+love+to+Automate+Stuff" alt="Typing SVG" /></a>
 </div>
 <div align=center>
-   <img src="https://komarev.com/ghpvc/?username=shariqmalik&style=flat&color=blueviolet" alt="profile-views"/> 
-   <img src="https://img.shields.io/github/stars/shariqmalik?label=Stars&style=flat&color=blueviolet" alt="stars">
-   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?label=Followers&style=flat&color=blueviolet&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshariqmalik&longCache=true"/>
+   <img src="https://komarev.com/ghpvc/?username=talhahacker123&style=flat&color=blueviolet" alt="profile-views"/> 
+   <img src="https://img.shields.io/github/stars/talhahacker123?label=Stars&style=flat&color=blueviolet" alt="stars">
+   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?label=Followers&style=flat&color=blueviolet&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtalhahacker123&longCache=true"/>
 </div>
-<img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/shariqmalik/shariqmalik/raw/main/images/coding-boy.gif">
+<img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/talhahacker123/raw/main/images/R.gif">
 <br><br>
 
 
@@ -37,7 +37,7 @@ About me
 
 {
   "Intro":[
-    "I am a Pentester",
+    "I am a Security Researcher",
      "Creative and Logical Thinker";
     "Script Kiddie at HackTheBox",
     "Automation Lover",
@@ -48,7 +48,7 @@ About me
   ],
   "hobbies":[
    {
-    "Information Security research",
+    "Security research",
     "Marshal Arts",
     "Swimming"
    
@@ -64,10 +64,10 @@ About me
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://pk.linkedin.com/in/muhammad-talha-iqbal-ab989b1a3">
         <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_shariqmalik">
+        <!--<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_shariqmalik">
         <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/twitter-squared--v2.png" ></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://app.hackthebox.com/profile/5992">
-        <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/htb.png"></a>
+        <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/htb.png"></a>-->
     </div>
     <div align=center>
         <h1>Contribution Activities</h1>
