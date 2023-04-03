@@ -76,13 +76,13 @@ About me
             <img height="150em" src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=talhahacker123&theme=chartreuse-dark#gh-dark-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
             </a>
             <a href="https://github.com/talhahacker123#gh-light-mode-only">
-            <img height="150em" src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=talhahacker123=buefy#gh-light-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
+            <img height="150em" src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=talhahacker123=chartreuse-dark#gh-light-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
             </a>
             <a href="https://github.com/talhahacker123#gh-dark-mode-only">
             <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=talhahacker123&theme=chartreuse-dark#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
             </a>
             <a href="https://github.com/talhahacker123#gh-light-mode-only">
-            <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=talhahacker123&theme=buefy#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
+            <img height="150em" src="https://github-readme-streak-stats-six.vercel.app/?user=talhahacker123&theme=chartreuse-dark#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
             </a>
         </div>
     </div>
