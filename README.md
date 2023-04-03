@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+<br>
+<br>
+<br>
 <img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/talhahacker123/talhahacker123/blob/main/images/R.gif">
 <br><br>
 
