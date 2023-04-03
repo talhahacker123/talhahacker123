@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?label=Followers&style=flat&color=blueviolet&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtalhahacker123&longCache=true"/>
 </div>
 
-<img align="right" alt="GIF" style="hight:30px;width:450px;margin-right: 20px;" src="https://github.com/talhahacker123/talhahacker123/blob/main/images/R.gif">
+<img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/talhahacker123/talhahacker123/blob/main/images/R.gif" height='300'>
 <br><br>
 
 
