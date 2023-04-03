@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-   <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/me.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+   <img src="" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <h1 align="center">Hi, I'm <a href="" target="_blank" rel="noopener noreferrer">TALHA IQBAL!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
