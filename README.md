@@ -42,6 +42,7 @@ About me
   "Intro":[
     "I am a Security Researcher",
      "Creative and Logical Thinker",
+     "Problem Solver",
     "Script Kiddie at HackTheBox",
     "Automation Lover",
   ],
