@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">Hi, I'm <a href="" target="_blank" rel="noopener noreferrer">TALHA IQBAL!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=7000&size=28&pause=1000&color=7EF710&background=77EEFF00&center=true&width=435&lines=I+am+a+Pentester;InfoSec+Enthusiast;Open+Source+Enthusiast;Logical+and+Creative+thinker;Problem+Solver;I+love+to+Automate+Stuff" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=10000&size=30&pause=1000&color=7EF710&background=77EEFF00&center=true&width=435&lines=I+am+a+Pentester;InfoSec+Enthusiast;Open+Source+Enthusiast;Logical+and+Creative+thinker;Problem+Solver;I+love+to+Automate+Stuff" alt="Typing SVG" />
 </div>
 <div align=center>
    <img src="https://komarev.com/ghpvc/?username=talhahacker123&style=flat&color=blueviolet" alt="profile-views"/> 
