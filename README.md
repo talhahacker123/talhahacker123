@@ -42,7 +42,7 @@ About me
   "Intro":[
     "I am a Pentester",
      "In TOP 2% on tryhackme"
-    "Script Kiddie at HackTheBox",
+    "Hacker at HackTheBox",
     "Automation Lover",
   ],
   "currently_learning":[
