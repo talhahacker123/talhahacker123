@@ -41,7 +41,6 @@ About me
 {
   "Intro":[
     "I am a Pentester",
-     "In TOP 2% on tryhackme"
     "Hacker at HackTheBox",
     "Automation Lover",
   ],
